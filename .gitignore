@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python-generated files
 __pycache__/
 *.py[oc]
@@ -8,6 +9,7 @@ wheels/
 
 # Test / tooling caches
 .pytest_cache/
+*.pyc
 
 # Configuracion local de herramientas
 .claude/
@@ -17,5 +19,5 @@ wheels/
 .env
 .env.*
 !.env.example
-
-
+*.db
+log/
